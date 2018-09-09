@@ -1,0 +1,163 @@
+<!-- section start -->
+      <!-- ================ -->
+      <section id="dishes" class="section default-bg clearfix"></section>
+      <!-- section end -->
+
+      <!-- section start -->
+      <!-- ================ -->
+      <section class="section clearfix">
+        <div class="container">
+          <h2 class="logo-font text-center mt-4 text-muted">Conheça alguns de nossos Serviços</h2>
+          <div class="separator"></div>
+          <!-- Nav tabs -->
+          <div class="d-flex justify-content-center">
+            <ul class="nav nav-pills" role="tablist">
+              <li class="nav-item"><a class="nav-link active" href="#pill-1" role="tab" data-toggle="tab" title="images">Accountants</a></li>
+              <li class="nav-item"><a class="nav-link active" href="#pill-2" role="tab" data-toggle="tab" title="video">Fiscal</a></li>
+              <!-- <li class="nav-item"><a class="nav-link" href="#pill-3" role="tab" data-toggle="tab" title="text">Dinner</a></li> -->
+            </ul>
+          </div>
+
+          <!-- Tab panes -->
+          <div class="tab-content clear-style">
+            <div class="tab-pane active" id="pill-1">
+              <div class="row">
+                <div class="col-lg-3">
+                  <div class="image-box text-center style-2 mb-20">
+                    <img src="images/accountants-services-1.jpg" alt="" class="rounded-circle img-thumbnail">
+                    <div class="body padding-horizontal-clear">
+                      <h4 class="logo-font title">Abertura de Empresas</h4>
+                      <p class="small mb-10">Lorem ipsum dolor sit amet consectetur adipisicing elit. Laborum, nesciunt?</p>
+                      <p class="small mb-10">Lorem ipsum dolor sit amet consectetur adipisicing elit. Laborum, nesciunt?</p>
+                      <p class="small mb-10">Lorem ipsum dolor sit amet consectetur adipisicing elit. Laborum, nesciunt?</p>
+                      <p class="lead text-default"><a href="#">leia mais</a></p>
+                    </div>
+                  </div>
+                </div>
+                <div class="col-lg-3">
+                  <div class="image-box text-center style-2 mb-20">
+                    <img src="images/accountants-services-1.jpg" alt="" class="rounded-circle img-thumbnail">
+                    <div class="body padding-horizontal-clear">
+                      <h4 class="logo-font title">Lorem, ipsum</h4>
+                      <p class="small mb-10">Lorem ipsum dolor sit amet consectetur adipisicing elit. Laborum, nesciunt?</p>
+                      <p class="small mb-10">Lorem ipsum dolor sit amet consectetur adipisicing elit. Laborum, nesciunt?</p>
+                      <p class="small mb-10">Lorem ipsum dolor sit amet consectetur adipisicing elit. Laborum, nesciunt?</p>
+                      <p class="lead text-default"><a href="#">leia mais ...</a></p>
+                    </div>
+                  </div>
+                </div>
+                <div class="col-lg-3">
+                  <div class="image-box text-center style-2 mb-20">
+                    <img src="images/accountants-services-1.jpg" alt="" class="rounded-circle img-thumbnail">
+                    <div class="body padding-horizontal-clear">
+                      <h4 class="logo-font title">Lorem, ipsum</h4>
+                      <p class="small mb-10">Lorem ipsum dolor sit amet consectetur adipisicing elit. Laborum, nesciunt?</p>
+                      <p class="small mb-10">Lorem ipsum dolor sit amet consectetur adipisicing elit. Laborum, nesciunt?</p>
+                      <p class="small mb-10">Lorem ipsum dolor sit amet consectetur adipisicing elit. Laborum, nesciunt?</p>
+                      <p class="lead text-default"><a href="#">leia mais ...</a></p>
+                    </div>
+                  </div>
+                </div>
+                <div class="col-lg-3">
+                  <div class="image-box text-center style-2 mb-20">
+                    <img src="images/accountants-services-1.jpg" alt="" class="rounded-circle img-thumbnail">
+                    <div class="body padding-horizontal-clear">
+                      <h4 class="logo-font title">Lorem, ipsum</h4>
+                      <p class="small mb-10">Lorem ipsum dolor sit amet consectetur adipisicing elit. Laborum, nesciunt?</p>
+                      <p class="small mb-10">Lorem ipsum dolor sit amet consectetur adipisicing elit. Laborum, nesciunt?</p>
+                      <p class="small mb-10">Lorem ipsum dolor sit amet consectetur adipisicing elit. Laborum, nesciunt?</p>
+                      <p class="lead text-default"><a href="#">leia mais ...</a></p>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+
+            <div class="tab-pane active" id="pill-2">
+                <div class="row">
+                  <div class="col-lg-3">
+                    <div class="image-box text-center style-2 mb-20">
+                      <img src="images/accountants-services-1.jpg" alt="" class="rounded-circle img-thumbnail">
+                      <div class="body padding-horizontal-clear">
+                        <h4 class="logo-font title">Lorem, ipsum</h4>
+                        <p class="small mb-10">Lorem ipsum dolor sit amet consectetur adipisicing elit. Laborum, nesciunt?</p>
+                        <p class="small mb-10">Lorem ipsum dolor sit amet consectetur adipisicing elit. Laborum, nesciunt?</p>
+                        <p class="small mb-10">Lorem ipsum dolor sit amet consectetur adipisicing elit. Laborum, nesciunt?</p>
+                        <p class="lead text-default"><a href="#">leia mais ...</a></p>
+                      </div>
+                    </div>
+                  </div>
+                  <div class="col-lg-3">
+                    <div class="image-box text-center style-2 mb-20">
+                      <img src="images/accountants-services-1.jpg" alt="" class="rounded-circle img-thumbnail">
+                      <div class="body padding-horizontal-clear">
+                        <h4 class="logo-font title">Lorem, ipsum</h4>
+                        <p class="small mb-10">Lorem ipsum dolor sit amet consectetur adipisicing elit. Laborum, nesciunt?</p>
+                        <p class="small mb-10">Lorem ipsum dolor sit amet consectetur adipisicing elit. Laborum, nesciunt?</p>
+                        <p class="small mb-10">Lorem ipsum dolor sit amet consectetur adipisicing elit. Laborum, nesciunt?</p>
+                        <p class="lead text-default"><a href="#">leia mais ...</a></p>
+                      </div>
+                    </div>
+                  </div>
+                  <div class="col-lg-3">
+                    <div class="image-box text-center style-2 mb-20">
+                      <img src="images/accountants-services-1.jpg" alt="" class="rounded-circle img-thumbnail">
+                      <div class="body padding-horizontal-clear">
+                        <h4 class="logo-font title">Lorem, ipsum</h4>
+                        <p class="small mb-10">Lorem ipsum dolor sit amet consectetur adipisicing elit. Laborum, nesciunt?</p>
+                        <p class="small mb-10">Lorem ipsum dolor sit amet consectetur adipisicing elit. Laborum, nesciunt?</p>
+                        <p class="small mb-10">Lorem ipsum dolor sit amet consectetur adipisicing elit. Laborum, nesciunt?</p>
+                        <p class="lead text-default"><a href="#">leia mais ...</a></p>
+                      </div>
+                    </div>
+                  </div>
+                  <div class="col-lg-3">
+                    <div class="image-box text-center style-2 mb-20">
+                      <img src="images/accountants-services-1.jpg" alt="" class="rounded-circle img-thumbnail">
+                      <div class="body padding-horizontal-clear">
+                        <h4 class="logo-font title">Lorem, ipsum</h4>
+                        <p class="small mb-10">Lorem ipsum dolor sit amet consectetur adipisicing elit. Laborum, nesciunt?</p>
+                        <p class="small mb-10">Lorem ipsum dolor sit amet consectetur adipisicing elit. Laborum, nesciunt?</p>
+                        <p class="small mb-10">Lorem ipsum dolor sit amet consectetur adipisicing elit. Laborum, nesciunt?</p>
+                        <p class="lead text-default"><a href="#">leia mais ...</a></p>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+          </div>
+          <!-- pills end -->
+        </div>
+      </section>
+      <!-- section end -->
+
+
+
+      <!-- section start -->
+      <!-- ================ -->
+      <section class="section dark-bg pv-40 clearfix">
+        <div class="container">
+          <div class="row">
+            <div class="col-12">
+              <div class="call-to-action text-center">
+                <div class="row justify-content-lg-center">
+                  <div class="col-lg-8">
+                    <h3 class="title"><strong>Subscribe</strong> To Our Newsletter</h3>
+                    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Repellendus error pariatur deserunt laudantium nam, mollitia quas nihil inventore, quibusdam?</p>
+                    <div class="separator"></div>
+                    <form class="form-inline margin-clear d-flex justify-content-center">
+                      <div class="form-group has-feedback">
+                        <label class="sr-only" for="subscribe3">Email address</label>
+                        <input type="email" class="form-control form-control-lg" id="subscribe3" placeholder="Enter email" name="subscribe3" required="">
+                        <i class="fa fa-envelope form-control-feedback"></i>
+                      </div>
+                      <button type="submit" class="btn btn-lg btn-gray-transparent btn-animated margin-clear ml-3">Submit <i class="fa fa-send"></i></button>
+                    </form>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </section>
+      <!-- section end -->
